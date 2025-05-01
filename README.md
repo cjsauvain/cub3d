@@ -13,7 +13,7 @@
 - clang
 - Bibliothèques : `mlx`, `X11`, `Xext`, `math.h`
 
-## 🚀 Compilation && Execution
+## 📦 Compilation & 🚀 Exécution
 ```bash
 make [bonus]
 
